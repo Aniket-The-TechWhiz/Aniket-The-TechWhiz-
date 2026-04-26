@@ -24,7 +24,7 @@
 
 <!-- Clean Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=80&section=header&text=Tech%20Stack&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=header&text=Tech%20Stack&fontSize=30&fontColor=ffffff" />
 </p>
 
 <!-- Smooth typing animation (reliable) -->
