@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Backend-focused | ⚡ Building scalable solutions | 🚀 Tech Explorer
+  💻 Backend Developer | ⚡ Scalable System Design | 🚀 Tech Explorer
 </p>
 
 ---
