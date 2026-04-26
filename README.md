@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About
+## 👨‍💻 About me
 - 🎓 Computer Engineering Student  
 - 💻 Backend Developer (Java + Spring Boot | Node.js + Express)  
 - 🧩 Strong in DSA & problem solving  
