@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nodejs,tailwind,mysql,postgres,mongodb,git,github,postman,vscode,linux,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nodejs,mysql,postgres,mongodb,git,github,postman,vscode,linux,docker&perline=8" />
 </p>
 
 <!-- subtle animated divider -->
