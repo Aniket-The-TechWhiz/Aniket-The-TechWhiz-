@@ -22,19 +22,38 @@
 
 ## 🛠 Tech Stack
 
+<!-- Backend -->
+<h3 align="center">⚙️ Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nodejs,mysql,postgres,mongodb,git,github,postman,vscode,linux,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
-<!-- subtle animated divider -->
+<!-- Frontend -->
+<h3 align="center">🌐 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind" />
+</p>
+
+<!-- Database -->
+<h3 align="center">🗄️ Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+<!-- Tools -->
+<h3 align="center">🧰 Tools & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+</p>
+
+<!-- Animated divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3&section=header"/>
 </p>
 
-<!-- better animated tech highlight (clean, not messy) -->
+<!-- Clean animated highlight -->
 <p align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js+%7C+MySQL+%7C+Docker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Backend+%7C+System+Design+%7C+APIs+%7C+Scalable+Architecture" />
 </p>
 
 ---
