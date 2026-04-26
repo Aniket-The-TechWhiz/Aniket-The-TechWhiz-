@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Yelameli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver" />
 </p>
 
 <p align="center">
@@ -24,16 +24,21 @@
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nodejs,tailwind,mysql,postgres,mongodb,git,github,postman,vscode,linux,docker&perline=8" />
 </p>
 
+<!-- subtle animated divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3&section=header"/>
 </p>
 
-<!-- Animated Moving Effect (Wave Style) -->
+<!-- better animated tech highlight (clean, not messy) -->
 <p align="center">
-  <img src="https://readme-marquee.vercel.app?text=Java%20•%20Spring%20Boot%20•%20React%20•%20Node.js%20•%20MySQL%20•%20PostgreSQL%20•%20MongoDB%20•%20Docker%20•%20System%20Design%20•%20DSA&font=Fira%20Code&width=600&height=40&color=7C3AED" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js+%7C+MySQL+%7C+Docker+%7C+DSA" />
 </p>
 
----Aniket-The-TechWhiz 
+---
+
+<p align="center"><i>— Aniket The TechWhiz 🚀</i></p>
+
+---
 
 ## 🌐 Connect With Me
 
