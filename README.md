@@ -35,11 +35,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js+%7C+MySQL+%7C+Docker" />
 </p>
 
----
 
-<p align="center"><i>— Aniket The TechWhiz 🚀</i></p>
-
----
 
 ## 🌐 Connect With Me
 
