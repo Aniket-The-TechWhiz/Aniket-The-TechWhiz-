@@ -21,7 +21,16 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,postgres,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nodejs,tailwind,mysql,postgres,mongodb,git,github,postman,vscode,linux,docker&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=header"/>
+</p>
+
+<!-- Animated Moving Effect (Wave Style) -->
+<p align="center">
+  <img src="https://readme-marquee.vercel.app?text=Java%20•%20Spring%20Boot%20•%20React%20•%20Node.js%20•%20MySQL%20•%20PostgreSQL%20•%20MongoDB%20•%20Docker%20•%20System%20Design%20•%20DSA&font=Fira%20Code&width=600&height=40&color=7C3AED" />
 </p>
 
 ---Aniket-The-TechWhiz 
