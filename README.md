@@ -22,25 +22,31 @@
 
 ## 🛠 Tech Stack
 
-<!-- Animated moving tech line -->
+<!-- Cinematic Header Animation -->
 <p align="center">
-  <img src="https://readme-marquee.vercel.app?text=⚙️%20Java%20•%20Spring%20Boot%20•%20Node.js%20•%20Express%20•%20React%20•%20Next.js%20•%20MySQL%20•%20PostgreSQL%20•%20MongoDB%20•%20Docker%20•%20Git%20•%20Linux&font=Fira%20Code&width=800&height=40&color=7C3AED" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=7C3AED&height=120&section=header&text=TECH%20STACK&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Main icons -->
+<!-- Subtle cinematic typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Designing+Scalable+Systems;Building+High-Performance+Backends;Java+%7C+Spring+Boot+%7C+Node.js;Clean+Code+%7C+Efficient+Architecture" />
+</p>
+
+<!-- Tech Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,nextjs,js,tailwind,mysql,postgres,mongodb,docker,git,github,postman,vscode,linux&perline=9" />
 </p>
 
-<!-- Glow divider -->
+<!-- Cinematic Glow Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=60&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"/>
 </p>
 
-<!-- Animated skill focus -->
+<!-- Subtle Moving Layer (feels like motion) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Scalable+Backends;Designing+Efficient+APIs;Working+Across+Java+%26+Node.js;Exploring+System+Design" />
+  <img src="https://readme-marquee.vercel.app?text=⚡%20Scalable%20Architecture%20•%20Clean%20Code%20•%20Backend%20Engineering%20•%20System%20Design&font=Orbitron&width=800&height=35&color=7C3AED" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
