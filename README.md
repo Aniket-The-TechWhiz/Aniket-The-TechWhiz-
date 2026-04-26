@@ -22,40 +22,25 @@
 
 ## 🛠 Tech Stack
 
-<!-- Backend -->
-<h3 align="center">⚙️ Backend</h3>
+<!-- Animated moving tech line -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+  <img src="https://readme-marquee.vercel.app?text=⚙️%20Java%20•%20Spring%20Boot%20•%20Node.js%20•%20Express%20•%20React%20•%20Next.js%20•%20MySQL%20•%20PostgreSQL%20•%20MongoDB%20•%20Docker%20•%20Git%20•%20Linux&font=Fira%20Code&width=800&height=40&color=7C3AED" />
 </p>
 
-<!-- Frontend -->
-<h3 align="center">🌐 Frontend</h3>
+<!-- Main icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,nextjs,js,tailwind,mysql,postgres,mongodb,docker,git,github,postman,vscode,linux&perline=9" />
 </p>
 
-<!-- Database -->
-<h3 align="center">🗄️ Database</h3>
+<!-- Glow divider -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=60&section=header"/>
 </p>
 
-<!-- Tools -->
-<h3 align="center">🧰 Tools & DevOps</h3>
+<!-- Animated skill focus -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Scalable+Backends;Designing+Efficient+APIs;Working+Across+Java+%26+Node.js;Exploring+System+Design" />
 </p>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3&section=header"/>
-</p>
-
-<!-- Clean animated highlight -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Backend+%7C+System+Design+%7C+APIs+%7C+Scalable+Architecture" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
