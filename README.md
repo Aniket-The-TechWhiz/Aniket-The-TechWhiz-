@@ -12,10 +12,10 @@
 
 ## 🧠 About
 - 🎓 Computer Engineering Student  
-- 💻 Backend Developer (Java + Spring Boot)  
+- 💻 Backend Developer (Java + Spring Boot | Node.js + Express)  
 - 🧩 Strong in DSA & problem solving  
+- ⚡ Building scalable and efficient backend systems  
 - 🌱 Exploring System Design & AI  
-
 ---
 
 ## 🛠 Tech Stack
